@@ -1,0 +1,9 @@
+.sketchfab-embed-wrapper {
+    position: fixed;
+    inset: 0;
+}
+
+.sketchfab-embed-wrapper > iframe {
+    width: 100%;
+    height: 100%;
+}
